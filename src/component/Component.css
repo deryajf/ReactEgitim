@@ -1,0 +1,56 @@
+.Baslik{
+   border-bottom: 2px solid black;
+   margin: 30px;
+   font-size: 50px;
+}
+
+.Metin{
+    border: 1px solid black;
+    margin: 20px;
+    font-size: 25px;
+    width: 100% -40px;
+    float: left ;
+}
+
+
+.Sablon{
+    border: 1px solid black;
+    margin: 20px 0px 20px 0px;
+    font-size: 25px;
+}
+
+
+.Resim{
+    border: 1px solid black;
+    margin: 20px;
+    font-size: 25px;
+    width:100%
+
+}
+
+.yazi{
+    border: 1px solid black;
+    width:calc(50% - 2px);
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+.yazi1{
+    border: 1px solid black;
+    width:calc(50% - 2px);
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+
+}
+
+
+.yazi2{
+    border: 1px solid black;
+    width:calc(50% - 2px);
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(216, 117, 78);
+}
